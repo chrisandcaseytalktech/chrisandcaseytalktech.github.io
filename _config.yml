@@ -1,1 +1,14 @@
 theme: jekyll-theme-minimal
+podcast_url: http://sencjw.com/dummy_podcast/index.xml
+podcast_album_art: /assets/base/album-art.png
+podcast_title: Chris and Casey Talk Tech
+podcast_owner: Chris Wilson
+podcast_email: cwilson@8thlight.com
+podcast_category: Technology
+podcast_subcategory_one: Software
+podcast_subcategory_two: Talk
+podcast_explicit: "no"
+podcast_author: Chris Wilson
+podcast_description: A podcast where Chris and Casey weigh in on sundry technical topics.
+podcast_summary: Chris and Casey give weekly opinions on everything including, or especially, programming culture itself.
+podcast_subtitle: Tech talk!
