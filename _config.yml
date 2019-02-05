@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
-podcast_url: http://sencjw.com/dummy_podcast
-podcast_album_art: /assets/images/album-art.jpg
+podcast_url: http://sencjw.com
+podcast_album_art: /dummy_podcast/assets/images/album-art.jpg
 podcast_title: Chris and Casey Talk Tech
 podcast_owner: Chris Wilson
 podcast_email: cwilson@8thlight.com
