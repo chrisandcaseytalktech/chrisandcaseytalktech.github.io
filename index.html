@@ -1,0 +1,19 @@
+---
+layout: default
+title: Home
+---
+
+<h1>Chris and Casey Talk Tech</h1>
+<a href="/feed.xml">RSS feed</a><br />
+<img src="/assets/images/album-art.jpg" width="700" height="700" />
+
+{% for category in site.categories %}
+<h2>{{ category[0] }}</h2>
+<ul>
+  {% for post in category[1] %}
+  <li>
+    <a href="{{ post.url }}">{{ post.title }}</a>
+  </li>
+  {% endfor %}
+</ul>
+{% endfor %}

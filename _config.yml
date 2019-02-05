@@ -1,12 +1,12 @@
 theme: jekyll-theme-minimal
-podcast_url: http://sencjw.com/dummy_podcast/index.xml
-podcast_album_art: /assets/base/album-art.png
+podcast_url: http://sencjw.com/dummy_podcast
+podcast_album_art: /assets/images/album-art.jpg
 podcast_title: Chris and Casey Talk Tech
 podcast_owner: Chris Wilson
 podcast_email: cwilson@8thlight.com
 podcast_category: Technology
-podcast_subcategory_one: Software
-podcast_subcategory_two: Talk
+podcast_subcategory_one: Tech News
+podcast_subcategory_two: Software How-To
 podcast_explicit: "no"
 podcast_author: Chris Wilson
 podcast_description: A podcast where Chris and Casey weigh in on sundry technical topics.
